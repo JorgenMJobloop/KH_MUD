@@ -30,7 +30,12 @@ dotnet add package Spectre.Console.Cli
     * Output
 
 # TODO: 02.12.2025 - 04.12.2025
-    - Implement a name for the player in the Player class constructor.
-    - Create a "World map"
-    - Create different scenarios
-    - Implement a set of different commands in the CommandProcessor class
+    - Implement a name for the player in the Player class constructor. : Complete
+    - Create a "World map" : Currently in-development
+    - Create different scenarios : Currently in-development
+    - Implement a set of different commands in the CommandProcessor class : Currently in-development
+    - Implement dungeons & buildings
+    - Create a UI-wrapper around Spectre.Console & properly render it.
+    - Create a world loader
+    - Create the overworld (JSON) & properly render it
+
